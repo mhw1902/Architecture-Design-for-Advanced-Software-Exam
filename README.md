@@ -1,2 +1,2 @@
 # -----
-软考-架构设计师-概念习题
+feel free to share, enhance memory by doing exercise.
